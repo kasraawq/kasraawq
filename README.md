@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**kasraawq/kasraawq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 AI & Bot Development
 
-Here are some ideas to get you started:
+💻 Web Development (PHP, JavaScript, HTML, CSS, WordPress)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧩 Plugin Development
+
+🛡️ Cybersecurity & Web Protection
+
+📱 App Development
+
+📈 Indicator & Strategy Creation
+
+🐍 Python Programming
